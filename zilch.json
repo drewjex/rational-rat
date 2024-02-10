@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Rational Rat",
+  "avatar": "TQIVEcaIdynGCciaa",
+  "preferredColor": "indigo",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
